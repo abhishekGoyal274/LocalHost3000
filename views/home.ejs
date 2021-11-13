@@ -1,0 +1,23 @@
+<%- include('partials/header') %>
+    <h1>TAKE BOOK</h1>
+    <p>
+        <%= homeContent %>
+    </p>
+    <br>
+    <h1 style="text-align:center;">Books Available:</h1>
+    <% posts.forEach(function(post) { %>
+        <div class="itemBox">
+            <h3>
+                <%= post.title %>
+            </h3>
+            <p>
+                <%= post.post.substring(0,100) + ".." %>
+                    <a href="/posts/<%= post.title %>">Read More</a>
+            </p>
+        </div>
+        <% }); %>
+
+
+            </body>
+
+            </html>

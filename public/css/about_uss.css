@@ -1,0 +1,62 @@
+body {
+    font-family: "Montserrat";
+    background-color: #94DAFF;
+    margin: auto;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.container-fluid {
+    background-color: #3A6069;
+    text-align: center;
+    padding: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    /* text-decoration-color: red; */
+    padding: 1% 5%;
+    color: #FBF46D;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 2rem;
+    /* color: #FBF46D; */
+}
+
+h3 {
+    font-size: 3rem;
+    text-decoration: underline;
+    text-align: center;
+    color: #FFAB4C;
+}
+
+.team_cls {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.title_para {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    color: #9AE66E;
+}
+
+#foot {
+    padding: 10% 15%;
+    text-align: center;
+    background-color: #D4E9E2;
+    font-weight: bold;
+}
+
+.fab fa-discord {
+    margin: 20px 10px;
+    font-size: 4rem;
+}
+
+.fab fa-discord:hover {
+    color: #ff4c68;
+}

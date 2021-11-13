@@ -1,0 +1,58 @@
+.rowheader {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.donate {
+    height: 100px;
+    width: 100px;
+    margin: 100px 50px;
+}
+
+#bottom-links {
+    color: black;
+    text-decoration: black;
+}
+
+#logoimg {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+nav.navbar.navbar-default {
+    background-color: rgb(58, 96, 105);
+}
+
+.navcolor {
+    background-color: bisque;
+}
+
+.anima {
+    margin: 100px 100px;
+    text-align: center;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: rgb(58, 96, 105);
+    margin: 0 px auto;
+    padding: 20px 0px;
+}
+
+.jumbotron {
+    padding: 70px 30px;
+    margin: 100px auto;
+    text-align: centre;
+    background-color: rgb(58, 96, 105);
+}
+
+.navbar-dark {
+    background-color: rgb(16, 22, 16);
+}
