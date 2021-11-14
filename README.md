@@ -2,7 +2,7 @@
 
 We at give and take promote the culture of exchange. Ex-changement of books might be personal to many people but we take care of your attachment. We pass on your kindness to equally needed soul which is abstained form this generosity. 
 We ask all our members take full advantage of our community to be a little better version of themselves.<br>
-We are trying to expand knowladge and culture by help peoplle getting  books. This site stores the discription and information provided by 
+We are trying to expand knowladge and culture by help people getting  books. This site stores the discription and information provided by 
 person donating the book so that  person in need can get it.<br>
 Preview of Website:
 ![image](https://user-images.githubusercontent.com/51013750/141650522-257ad096-ed62-400d-b0b9-cabfda0acd09.png)
