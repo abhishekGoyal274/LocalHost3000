@@ -36,7 +36,7 @@ app.get('/', function(req, res) {
     res.sendFile(__dirname + "/LandingPage.html");
 })
 
-app.get('/homePAge', function(req, res) {
+app.get('/homePage', function(req, res) {
     res.render('homePage');
 })
 
@@ -88,6 +88,6 @@ app.get('/posts/:title', function(req, res) {
 
 });
 
-app.listen(process.env.PORT || 3000, function() {
-    console.log("Server started on port 3000");
+app.listen(process.env.PORT || 4000, function() {
+    console.log("Server started on port 4000");
 });
